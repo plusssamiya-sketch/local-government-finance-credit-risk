@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="460" viewBox="0 0 820 460">
+<rect width="100%" height="100%" fill="white"/>
+<text x="410.0" y="35" text-anchor="middle" font-family="Arial" font-size="22" font-weight="700">Land-Transfer Revenue Share of Fiscal Revenue</text>
+<text x="22" y="230.0" transform="rotate(-90 22 230.0)" text-anchor="middle" font-family="Arial" font-size="13">Percent</text>
+<line x1="90" y1="370.0" x2="790" y2="370.0" stroke="#222" stroke-width="1"/>
+<line x1="90" y1="70" x2="90" y2="370" stroke="#222" stroke-width="1"/>
+<rect x="114.0" y="70.0" width="201.3" height="300.0" fill="#1f77b4"/>
+<text x="214.7" y="62.0" text-anchor="middle" font-family="Arial" font-size="12">31.54</text>
+<text x="214.7" y="405" text-anchor="middle" font-family="Arial" font-size="12">Fujian</text>
+<rect x="339.3" y="75.0" width="201.3" height="295.0" fill="#d62728"/>
+<text x="440.0" y="67.0" text-anchor="middle" font-family="Arial" font-size="12">31.02</text>
+<text x="440.0" y="405" text-anchor="middle" font-family="Arial" font-size="12">Hefei</text>
+<rect x="564.7" y="137.4" width="201.3" height="232.6" fill="#2ca02c"/>
+<text x="665.3" y="129.4" text-anchor="middle" font-family="Arial" font-size="12">24.45</text>
+<text x="665.3" y="405" text-anchor="middle" font-family="Arial" font-size="12">Anonymized-City</text>
+</svg>
